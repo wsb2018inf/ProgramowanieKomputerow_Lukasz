@@ -130,7 +130,7 @@ namespace Project
                 }
 
             } while (k != 0);
-
+            Console.ReadKey();
             Console.WriteLine("Dziękuje za skorzystanie z programu");
                 nazwa();
             
